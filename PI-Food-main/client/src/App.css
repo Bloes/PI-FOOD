@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url('./image/menu-saludable-01-1024x684.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
 }
 
 .App-logo {
